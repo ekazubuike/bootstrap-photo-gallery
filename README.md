@@ -1,0 +1,1 @@
+This photo gallery template uses bootstrap's responsive grid system and navigation bar to render a sleek, minimalist interface.

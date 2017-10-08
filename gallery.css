@@ -1,0 +1,70 @@
+/*
+MEDIUM BROWN: #4e342e
+DARK BROWN: #260e04
+LIGHT BROWN: #7b5e57
+LIGHT GRAY: #eeeeee
+*/
+
+body {
+  padding-top: 70px;
+}
+
+.jumbotron {
+  color: #260e04;
+  background: #d7ccc8;
+}
+
+.navbar {
+  background: #5d4037;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand {
+  color: #eeeeee;
+}
+
+.thumbnail {
+  border: 1px solid #d7ccc8;
+}
+
+.image {
+  height: 250px;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+
+.image1 {
+  background-image: url(https://source.unsplash.com/1YnBzhJISg4);
+}
+
+.image2 {
+  background-image: url(https://source.unsplash.com/l_YNobbDYJk);
+}
+
+.image3 {
+  background-image: url(https://source.unsplash.com/SQ6jgZTEeVk);
+}
+
+.image4 {
+  background-image: url(https://source.unsplash.com/nPlRcfVLRbo);
+}
+
+.image5 {
+  background-image: url(https://source.unsplash.com/JuMrIE10_5c);
+}
+
+.image6 {
+  background-image: url(https://source.unsplash.com/80wYSpqSxX8);
+}
+
+.image7 {
+  background-image: url(https://source.unsplash.com/NnbFeWRDUv4);
+}
+
+.image8 {
+  background-image: url(https://source.unsplash.com/kYrqetng_2U);
+}
+
+.image9 {
+  background-image: url(https://source.unsplash.com/fwK-UbV1UQ4);
+}
